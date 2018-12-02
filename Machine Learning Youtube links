@@ -1,0 +1,107 @@
+More the data > Better will be the Model > will get Higher Accuracy Predications.
+
+Brian Machine Learning vs Traditional Statistics Part 1
+https://www.youtube.com/watch?v=788WrMQo1wY
+Brian Caffo
+Good examples to understand machine learning VS traditional model﻿
+
+
+https://www.youtube.com/watch?v=ukzFI9rgwfU
+Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn
+
+Scenario 1: Supervised Learning
+Scenario 2: Reinforcement Learning
+Scenario 3: Unsupervised Learning﻿
+
+Scenario 1: Facebook recognizes your friend in a picture from an album of tagged photographs
+Explanation: It is supervised learning. Here Facebook is using tagged photos to recognize the person. 
+Therefore, the tagged photos become the labels of the pictures and we know that when the machine is learning from labelled data, it is supervised learning.
+
+Scenario 2: Recommending new songs based on someone’s past music choices
+Explanation: It is supervised learning. The model is training a classifier on pre-existing labels (genres of songs).
+This is what Netflix, Pandora, and Spotify do all the time, they collect the songs/movies that you like already, 
+evaluate the features based on your likes/dislikes and then recommend new movies/songs based on similar features.
+
+Scenario 3: Analyze bank data for suspicious looking transactions and flag the fraud transactions
+Explanation: It is unsupervised learning. In this case, the suspicious transactions are not defined, 
+hence there are no labels of "fraud" and "not fraud". The model tries to identify outliers by looking at anomalous transactions and flags them as 'fraud'.﻿
+
+
+Supervised Learning:
+Feature 
+Lable
+
+Lables data to predict the output
+
+UnSupervised Learning:
+
+dataset with Names , scores and wockets taken
+
+Cluster ( Bowlers and batsmen )
+
+No lables of bowler , batsmen.
+
+-------------------------
+
+Reinforcement learning:
+
+Input > Model > Output > Feedback to Model and learn .
+------------
+
+Sign up for the next course at The School of AI:
+http://theschool.ai/
+
+More learning resources:
+https://towardsdatascience.com/the-ma...
+https://ocw.mit.edu/courses/mathemati...
+https://www.quora.com/How-do-I-learn-...
+https://courses.washington.edu/css490...
+
+Join us in the Wizards Slack channel:
+http://wizards.herokuapp.com/
+
+
+ Calculus
+machine learning is really statistics
+
+What's the difference between probability and statistics?
+I've always thought that probability is a subclass of statistics.﻿
+
+statistics is about what already happened (past and present), 
+and making insights from that.. 
+probability is about making predictions (future)﻿
+
+statistics : Is the core of every thing
+Calculus (Tells us How to learn and optimise our Model )
+Linear Algebra (Makes running these algorithems fesibliible in the massive data set)
+Probability:Helps predict the likly hose of the even happens 
+
+https://www.youtube.com/watch?v=0sKPkJME2Jw
+Lecture: Mathematics of Big Data and Machine Learning
+https://www.youtube.com/watch?v=0sKPkJME2Jw&list=PLUl4u3cNGP62DPmPLrVyYfk3-Try_ftJJ
+
+https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/
+
+
+https://www.youtube.com/watch?v=SPj8ARqpFEU&list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z
+
+Linear Algebra - Solving data science challenges with mathematics
+
+Mathematics for Machine Learning: Linear Algebra, Module 1 - Introduction to Linear Algebra and to Mathematics for Machine Learning
+
+intrigano
+
+https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z
+https://www.youtube.com/user/intrigano
+
+https://www.theschool.ai/
+
+
+
+
+https://www.youtube.com/watch?v=U0XIBBuJal4
+Week 9 Machine Learning versus classical statistics
+Brian Caffo
+
+
+
